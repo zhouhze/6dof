@@ -1,4 +1,3 @@
 # 6dof
 
-欢迎大家
-有什么意见建议欢迎提出
+home made motion platform
